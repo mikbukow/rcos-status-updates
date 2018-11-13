@@ -1,0 +1,22 @@
+## Last Week's Accomplishments
+
+> WE created a new repository called spaceport. We all were able to create our own branches and I commited my progress page for the website. Jake also
+joined our team, so now we have a smoother transition from frontend to backend since he has been working alot with the backend. We installed yarn so we 
+can run our website locally. 
+
+
+## This Week's Plan
+
+> This week's plan is to continue getting familiar with React and working on website templates. We also need to work on getting our templates more integrated
+with the React code. Right now we are working on getting our first committed page to work with React. 
+
+> Examples: 
+
+## Anything Blocking?
+
+> Right now the templates we have written for the wesbite is not working with the React code. So this is something we plan to fix this week.
+
+
+## Notes
+
+> This is an optional section for any sort of information that does not fall under any of the other categories.
