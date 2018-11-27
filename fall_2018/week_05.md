@@ -1,6 +1,7 @@
 ## Last Week's Accomplishments
 
-> We implemented some basic templates for some of the web pages
+> We started to use html and bootstrap to begin coding some of the website pages that we wireframed earlier. I finished a progess page with the help of
+some online tutorials.
 
 
 ## This Week's Plan
