@@ -1,18 +1,21 @@
 ## Last Week's Accomplishments
 
-> We started to use html and bootstrap to begin coding some of the website pages that we wireframed earlier. I finished a progess page with the help of
-some online tutorials.
-
+> We began to finally start coding with html and bootstrap. I did a few small snipets of practice code and followed some tutorials to get the hang of it.
+We used to wirframes as template designs to start implementing web pages. I created the progress page, the page that students can use to track their
+progress on current projects they are working on and projects they have already completed. 
 
 ## This Week's Plan
 
-> We plan to continue creating the web pages and also learn React
+> We realized that React might be a better framework than flask, so this weeks task is to begin getting familar with React and also continue to implement
+web pages. We are going to see if flask is still a viable framework to use so our work isnt lost, but it's looking like we are going to switch to React after
+touching base with the backend team.
 
 > Examples: 
 
 ## Anything Blocking?
 
-> We realized flask wasnt the best frameowork for our website, so we decided to switch to React so we have to learn that now.
+> After talking with the backend team, we realized Flask might not be the best framework to use. React would be a better one to use. We now are going to
+start learning react. If we do switch, this will be kind of like moving back since we finally started getting used to Flask.
 
 ## Notes
 

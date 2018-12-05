@@ -1,6 +1,6 @@
 ## Last Week's Accomplishments
 
-> I implemented the tracking progress webage in html, css and bootstrap
+> We continued to get familiar with bootstap and flask
 
 
 ## This Week's Plan

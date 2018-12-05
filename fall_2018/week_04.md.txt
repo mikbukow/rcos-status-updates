@@ -1,11 +1,12 @@
 ## Last Week's Accomplishments
 
-> I implemented the tracking progress webage in html, css and bootstrap
+> We got familar with bootstrap, html, and css and will begin to start implementing some of the web pages. We will try to use our wireframes as guides so that our pages have the same style.
+We were all given a page to create and I was given the progress page
 
 
 ## This Week's Plan
 
-> We plan to create json files with "data" that will eventually be replaced with the data of the student's progress and all the projects they can do
+> We plan to create json files with "data" that will eventually be replaced with the data of the student's progress and all the projects they can do and to finish implementing the pages were each assigned to create. I am also still trying to get comfortable will flask as I am getting a few errors with it. 
 
 
 ## Anything Blocking?

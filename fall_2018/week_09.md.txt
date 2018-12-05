@@ -1,0 +1,18 @@
+## Last Week's Accomplishments
+
+> We started to change some of the code we had written before to work with the plugin. I had written some webages in html and bootstrap and just needed to convert those to jsx. to get it to work with React.js
+We also started to prepare for our presentation. 
+
+
+## This Week's Plan
+
+> We plan to finish our slides for the presentation and finish committing all the work we have done this semester to our repository. This is our last small group so there is not much else to prepare for for next week, but I do plan on continueing this project for next semester.
+> Examples: 
+
+## Anything Blocking?
+
+> This semester is ending and so is RCOS. The only thing blocking would be transitioning into next semester and getting all the new people up to speed.
+
+## Notes
+
+> This is an optional section for any sort of information that does not fall under any of the other categories.
