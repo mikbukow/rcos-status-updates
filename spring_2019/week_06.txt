@@ -1,0 +1,18 @@
+## Last Week's Accomplishments
+
+> I fixed my issue with reading in the json files. I was getting confused with my variables. When i finally fixed the error message, nothing was being read in 
+but it was because of my variable issue. 
+
+
+## This Week's Plan
+This weeks plan is to match up all of our stylings and get some info from the back end team. We want to start reading in real info, instead of mock data.
+We also want to plan to make a home page, but this page will be static for the most part. 
+
+## Anything Blocking?
+
+Nothing really blocking at the moment, just have a lot going on in other classes next week.
+ 
+
+## Notes
+
+ 
